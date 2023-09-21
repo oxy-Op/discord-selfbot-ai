@@ -5,7 +5,7 @@ Discord selfbot which makes your account integrated with chatGPT to answer queri
 
 Welcome to the Discord ChatGPT Selfbot repository! This project leverages the power of OpenAI's ChatGPT to create an intelligent and responsive selfbot for Discord. 
 
-# Usage
+# Installation
 
 - git clone
 - `pip install -r requirements.txt`
@@ -13,6 +13,10 @@ Welcome to the Discord ChatGPT Selfbot repository! This project leverages the po
   - In access list, add discord user id of users you want your account to respond to
   - Provide your discord account token and open api key
 - `python main.py`
+
+# Usage
+  
+  Now your account should be able to reply to users whose ids you provided. Note that the identifier `search` should be in the text to trigger response
 
 ## Disclaimer:
 
